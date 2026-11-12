@@ -14,9 +14,9 @@
 
 ## Instructor names and ranks
 
-The following list reflects the latest Annual Martial Arts Camp 2026 poster supplied by the academy.
+This roster combines the latest Annual Martial Arts Camp 2026 poster with the earlier academy-confirmed instructor list. Both Kartik spellings and Sohan Dhapade are retained as requested.
 
-| No. | Instructor name on poster | Rank shown |
+| No. | Instructor name | Rank |
 |---:|---|---|
 | 1 | Sensei Saurabh Tiwari | Black Belt – 3rd Dan |
 | 2 | Sensei Raksha Chanore | Black Belt – 2nd Dan |
@@ -25,22 +25,24 @@ The following list reflects the latest Annual Martial Arts Camp 2026 poster supp
 | 5 | Sensei Bhushan Bhakte | Black Belt – 1st Dan |
 | 6 | Sensei Roshan Gupta | Black Belt |
 | 7 | Kartik Chavhan | Black Belt |
-| 8 | Lalit Atram | Black Belt |
-| 9 | Suhani Dhapade | Black Belt |
-| 10 | Ishika Dhapade | Black Belt |
-| 11 | Harsh Mate | Black Belt |
-| 12 | Krutika Shelke | Black Belt |
-| 13 | Sonakshi Birgade | Black Belt |
-| 14 | Sahil Birgade | Black Belt |
-| 15 | Saurabh Jaiswar | Black Belt |
-| 16 | Prasanna Pojge | Black Belt |
+| 8 | Kartik Chouhan | Black Belt |
+| 9 | Lalit Atram | Black Belt |
+| 10 | Suhani Dhapade | Black Belt |
+| 11 | Sohan Dhapade | Black Belt |
+| 12 | Ishika Dhapade | Black Belt |
+| 13 | Harsh Mate | Black Belt |
+| 14 | Krutika Shelke | Black Belt |
+| 15 | Sonakshi Birgade | Black Belt |
+| 16 | Sahil Birgade | Black Belt |
+| 17 | Saurabh Jaiswar | Black Belt |
+| 18 | Prasanna Pojge | Black Belt |
 
-### Instructor record notes
+### Record notes
 
-- The latest poster spells the name **Kartik Chavhan**; an earlier user-confirmed roster used **Kartik Chouhan**. Confirm the official spelling before publishing a final profile.
-- An earlier user-confirmed roster included **Sohan Dhapade — Black Belt**, but this name is absent from the latest poster. Keep that earlier record pending confirmation rather than silently deleting it.
-- No Dan grade is inferred where the poster states only “Black Belt”.
-- Shihan Ramesh Dhapade is listed separately as the senior representative in the supplied materials.
+- Both **Kartik Chavhan** (latest poster spelling) and **Kartik Chouhan** (earlier academy-confirmed spelling) are retained as separate entries. Confirm whether these refer to one person or two before creating individual profiles.
+- **Sohan Dhapade — Black Belt** is retained from the earlier academy-confirmed roster although absent from the latest camp poster.
+- No Dan grade is inferred where the source only states “Black Belt”.
+- Shihan Ramesh Dhapade is listed separately as the senior representative.
 
 ## Events — 2026
 
