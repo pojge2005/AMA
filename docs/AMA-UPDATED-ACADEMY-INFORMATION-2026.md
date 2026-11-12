@@ -6,29 +6,41 @@
 **Affiliation stated on event posters:** Shotokan Karate International of India  
 **Location:** Nagpur, Maharashtra, India
 
-> This document records information supplied and confirmed for the academy website project. It is not a legal verification of registration or affiliation.
+> This document records information supplied for the academy website project. It is not a legal verification of registration or affiliation.
 
 ## Academy leadership
 
 **Shihan Ramesh Dhapade** — Black Belt, 5th Dan; Secretary of AMA, Nagpur. The 3rd Inter-School Karate Championship poster also identifies him as Tournament Director.
 
-## Confirmed instructor roster
+## Instructor names and ranks
 
-| Instructor | Rank |
-|---|---|
-| Sensei Saurabh Tiwari | Black Belt – 3rd Dan |
-| Sensei Raksha Chanore | Black Belt – 2nd Dan |
-| Sensei Pranil Kachole | Black Belt – 3rd Dan |
-| Sensei Yashdeep Patle | Black Belt – 1st Dan |
-| Sensei Bhushan Bhakte | Black Belt – 1st Dan |
-| Sensei Roshan Gupta | Black Belt |
-| Sensei Kartik Chouhan | Black Belt |
-| Sensei Lalit Atram | Black Belt |
-| Sensei Sohan Dhapade | Black Belt |
-| Sensei Ishika Dhapade | Black Belt |
-| Sensei Harsh Mate | Black Belt |
-| Sensei Saurabh Jaiswar | Black Belt |
-| Sensei Prasanna Pojge | Black Belt |
+The following list reflects the latest Annual Martial Arts Camp 2026 poster supplied by the academy.
+
+| No. | Instructor name on poster | Rank shown |
+|---:|---|---|
+| 1 | Sensei Saurabh Tiwari | Black Belt – 3rd Dan |
+| 2 | Sensei Raksha Chanore | Black Belt – 2nd Dan |
+| 3 | Sensei Pranil Kachole | Black Belt – 3rd Dan |
+| 4 | Sensei Yashdeep Patle | Black Belt – 1st Dan |
+| 5 | Sensei Bhushan Bhakte | Black Belt – 1st Dan |
+| 6 | Sensei Roshan Gupta | Black Belt |
+| 7 | Kartik Chavhan | Black Belt |
+| 8 | Lalit Atram | Black Belt |
+| 9 | Suhani Dhapade | Black Belt |
+| 10 | Ishika Dhapade | Black Belt |
+| 11 | Harsh Mate | Black Belt |
+| 12 | Krutika Shelke | Black Belt |
+| 13 | Sonakshi Birgade | Black Belt |
+| 14 | Sahil Birgade | Black Belt |
+| 15 | Saurabh Jaiswar | Black Belt |
+| 16 | Prasanna Pojge | Black Belt |
+
+### Instructor record notes
+
+- The latest poster spells the name **Kartik Chavhan**; an earlier user-confirmed roster used **Kartik Chouhan**. Confirm the official spelling before publishing a final profile.
+- An earlier user-confirmed roster included **Sohan Dhapade — Black Belt**, but this name is absent from the latest poster. Keep that earlier record pending confirmation rather than silently deleting it.
+- No Dan grade is inferred where the poster states only “Black Belt”.
+- Shihan Ramesh Dhapade is listed separately as the senior representative in the supplied materials.
 
 ## Events — 2026
 
@@ -49,16 +61,6 @@ The supplied participation-certificate design describes a four-day annual camp o
 - **Location:** Rawanwadi, District Bhandara, Maharashtra
 - **Organiser wording on poster:** Academy of Martial Arts, Nagpur & Karate Do Self Defense Academy
 - **Tournament Director named on poster:** Shihan Ramesh Dhapade, Black Belt, 5th Dan
-
-## Additional details requiring confirmation
-
-The newly supplied artwork includes the names Suhani Dhapade, Krutika Shelke, Sonakshi Birgade and Sahil Birgade. Do not add these names to the official instructor directory until their roles are confirmed.
-
-Two discrepancies need academy confirmation:
-1. One poster spells the name as **Kartik Chavhan**, while the previously confirmed instructor roster uses **Kartik Chouhan**.
-2. The confirmed roster lists **Raksha Chanore — 2nd Dan**, while one supplied certificate design appears to show **3rd Dan**.
-
-Do not silently change the confirmed roster. The event artwork may contain event participants or officials and should not be treated as a definitive instructor list.
 
 ## Website content rules
 
