@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Gallery from "@/components/gallery";
 import { events, instructors } from "@/data/site";
 
@@ -9,17 +10,30 @@ const navigation = [
   ["Contact", "#contact"]
 ];
 
+function AcademyBrand() {
+  return (
+    <a className="brand" href="#home" aria-label="Academy of Martial Arts home">
+      <Image
+        className="brand-logo"
+        src="/images/ama-logo.jpg"
+        alt="Academy of Martial Arts Nagpur logo"
+        width={64}
+        height={64}
+        priority
+      />
+      <span className="brand-name">
+        <strong>Academy of Martial Arts</strong>
+        <small>Nagpur · Maharashtra</small>
+      </span>
+    </a>
+  );
+}
+
 export default function HomePage() {
   return (
     <main>
       <header className="site-header">
-        <a className="brand" href="#home" aria-label="Academy of Martial Arts home">
-          <span className="brand-seal">AMA</span>
-          <span className="brand-name">
-            <strong>Academy of Martial Arts</strong>
-            <small>Nagpur · Maharashtra</small>
-          </span>
-        </a>
+        <AcademyBrand />
         <nav className="main-nav" aria-label="Main navigation">
           {navigation.map(([label, href]) => (
             <a href={href} key={label}>{label}</a>
@@ -152,13 +166,7 @@ export default function HomePage() {
       </section>
 
       <footer className="site-footer">
-        <a className="brand footer-brand" href="#home">
-          <span className="brand-seal">AMA</span>
-          <span className="brand-name">
-            <strong>Academy of Martial Arts</strong>
-            <small>Nagpur · Maharashtra</small>
-          </span>
-        </a>
+        <AcademyBrand />
         <p>© {new Date().getFullYear()} Academy of Martial Arts. All rights reserved.</p>
         <a href="#home">Back to top ↑</a>
       </footer>
