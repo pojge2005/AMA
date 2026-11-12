@@ -18,7 +18,7 @@ body {
   margin: 0;
   color: var(--ink);
   background: var(--paper);
-  font-family: "DM Sans", Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 a { color: inherit; text-decoration: none; }
@@ -71,7 +71,7 @@ button { font: inherit; }
 .eyebrow { margin: 0 0 15px; color: var(--red); font-size: 10px; font-weight: 700; letter-spacing: .2em; text-transform: uppercase; }
 .eyebrow.light { color: #e6c47b; }
 .hero h1, .section h2, .contact-panel h2 {
-  margin: 0; font-family: "Playfair Display", Georgia, serif;
+  margin: 0; font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(48px, 7vw, 88px); line-height: 1.04; letter-spacing: -.045em;
 }
 .hero h1 em, .section h2 em, .contact-panel h2 em { color: #e5bd6c; font-weight: 600; }
@@ -94,7 +94,7 @@ button { font: inherit; }
   color: rgba(255,255,255,.55); font-size: 9px; letter-spacing: .15em;
 }
 .intro-strip { padding: 22px 8%; text-align: center; color: white; background: var(--red); }
-.intro-strip p { margin: 0; font-family: "Playfair Display", Georgia, serif; font-size: clamp(15px, 2vw, 21px); }
+.intro-strip p { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(15px, 2vw, 21px); }
 .section { padding: 100px 9%; }
 .section-kicker { margin-bottom: 50px; color: var(--muted); font-size: 10px; font-weight: 700; letter-spacing: .18em; }
 .about-grid { display: grid; grid-template-columns: 1fr 1.15fr; gap: 10%; }
@@ -102,11 +102,11 @@ button { font: inherit; }
 .about-copy > p { max-width: 570px; margin: 4px 0 35px; color: #555d59; font-size: 15px; line-height: 1.9; }
 .fact-row { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--line); }
 .fact-row div { padding: 20px 12px 0 0; display: flex; flex-direction: column; gap: 6px; }
-.fact-row strong { color: var(--red); font-family: "Playfair Display", Georgia, serif; font-size: 20px; }
+.fact-row strong { color: var(--red); font-family: Georgia, "Times New Roman", serif; font-size: 20px; }
 .fact-row span { color: var(--muted); font-size: 10px; line-height: 1.5; }
 .leadership-band { padding: 34px 9%; display: flex; align-items: center; gap: 8%; color: white; background: var(--green); }
 .leadership-label { color: #e4c47d; font-size: 9px; font-weight: 700; letter-spacing: .18em; }
-.leadership-band h2 { margin: 0 0 5px; font-family: "Playfair Display", Georgia, serif; font-size: 27px; }
+.leadership-band h2 { margin: 0 0 5px; font-family: Georgia, "Times New Roman", serif; font-size: 27px; }
 .leadership-band p { margin: 0; color: #d8e5dc; font-size: 12px; }
 .instructors-section { background: #fff; }
 .section-heading { max-width: 650px; margin-bottom: 42px; }
@@ -118,7 +118,7 @@ button { font: inherit; }
 .instructor-avatar {
   width: 42px; height: 42px; margin: 19px 0 13px; display: grid; place-items: center;
   border-radius: 50%; color: var(--red); background: #f4e9e4;
-  font-family: "Playfair Display", Georgia, serif; font-size: 20px;
+  font-family: Georgia, "Times New Roman", serif; font-size: 20px;
 }
 .instructor-card h3 { margin: 0 0 6px; font-size: 13px; font-weight: 700; }
 .instructor-card p { margin: 0; color: var(--green); font-size: 10px; font-weight: 600; }
@@ -132,9 +132,9 @@ button { font: inherit; }
   padding: 28px 0; display: grid; grid-template-columns: 55px 1fr 30px; gap: 20px;
   align-items: start; border-bottom: 1px solid rgba(255,255,255,.2);
 }
-.event-number { color: #d9b76d; font-family: "Playfair Display", Georgia, serif; font-size: 22px; }
+.event-number { color: #d9b76d; font-family: Georgia, "Times New Roman", serif; font-size: 22px; }
 .event-date { margin: 0 0 8px; color: #e4c47d; font-size: 10px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
-.event-card h3 { margin: 0 0 8px; font-family: "Playfair Display", Georgia, serif; font-size: 25px; }
+.event-card h3 { margin: 0 0 8px; font-family: Georgia, "Times New Roman", serif; font-size: 25px; }
 .event-card p { margin: 0 0 8px; color: #c1cbc3; font-size: 12px; line-height: 1.6; }
 .event-card small { color: #929e95; font-size: 10px; line-height: 1.5; }
 .event-arrow { color: #e4c47d; font-size: 20px; }
@@ -148,14 +148,14 @@ button { font: inherit; }
   border: 1px dashed #c8c9bd; background: rgba(255,255,255,.48);
 }
 .gallery-mark { width: 58px; height: 58px; margin-bottom: 22px; display: grid; place-items: center; border: 1px solid var(--green); border-radius: 50%; color: var(--green); font-size: 13px; font-weight: 700; }
-.gallery-empty h3 { margin: 0 0 10px; font-family: "Playfair Display", Georgia, serif; font-size: 25px; }
+.gallery-empty h3 { margin: 0 0 10px; font-family: Georgia, "Times New Roman", serif; font-size: 25px; }
 .gallery-empty > p:last-child { max-width: 470px; margin: 0; color: var(--muted); font-size: 12px; line-height: 1.7; }
 .contact-section { padding-top: 20px; }
 .contact-panel { padding: 65px 7%; display: flex; align-items: end; justify-content: space-between; gap: 30px; color: white; background: var(--red-dark); }
 .contact-panel h2 { font-size: clamp(42px, 5vw, 62px); }
 .contact-panel > div:first-child > p:last-child { max-width: 430px; color: #ead8d5; font-size: 13px; line-height: 1.8; }
 .contact-side { display: flex; flex-direction: column; gap: 9px; color: #e9c9c3; font-size: 9px; letter-spacing: .15em; }
-.contact-city { color: white; font-family: "Playfair Display", Georgia, serif; font-size: 30px; letter-spacing: .02em; }
+.contact-city { color: white; font-family: Georgia, "Times New Roman", serif; font-size: 30px; letter-spacing: .02em; }
 .site-footer { padding: 28px 5.5%; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
 .footer-brand { min-width: auto; }
 .site-footer > p, .site-footer > a:last-child { color: var(--muted); font-size: 10px; }
