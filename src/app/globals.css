@@ -33,7 +33,7 @@ button { font: inherit; }
   background: var(--paper);
 }
 .brand { display: inline-flex; align-items: center; gap: 12px; min-width: 230px; }
-.brand-logo { width: 58px; height: 58px; flex: 0 0 auto; object-fit: contain; border-radius: 50%; background: #fff; }
+.brand-logo { width: 58px; height: 58px; flex: 0 0 auto; object-fit: contain; }
 .brand-name { display: flex; flex-direction: column; gap: 3px; }
 .brand-name strong { font-size: 13px; letter-spacing: -.02em; }
 .brand-name small { color: var(--muted); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; }
