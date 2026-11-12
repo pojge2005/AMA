@@ -1,23 +1,59 @@
-# AMA – Academy of Martial Arts, Nagpur
+# Academy of Martial Arts — Nagpur
 
-Official project repository for the Academy of Martial Arts, Nagpur public website.
+Public website for Academy of Martial Arts (AMA), Nagpur.
 
-## Documentation
+## Website scope
 
-- [Academy profile and website content rules](docs/ACADEMY-PROFILE.md)
-- [Verified instructor names and ranks](docs/INSTRUCTORS.md)
-- [Annual Martial Arts Camp 2026](docs/events/ANNUAL-MARTIAL-ARTS-CAMP-2026.md)
+- Home and academy profile
+- Instructor directory
+- Events and announcements
+- Gallery for academy photos, camps, championships and certificates
+- Contact section (verified contact details will be added when supplied)
+
+The Gallery interface is included now. Actual gallery photographs and event media will be added later when the academy supplies and approves them.
 
 ## Development phases
 
-1. Public website – first phase.
-2. Student Management System – later phase.
-3. Admin Dashboard – later phase.
+1. Public website — current phase.
+2. Student Management System — later phase.
+3. Admin Dashboard and gallery management — later phase.
+
+The public website is kept separate from future private student and admin workflows.
+
+## Technology
+
+- Next.js App Router
+- React
+- TypeScript
+- CSS
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:3000.
+
+Run a production build with:
+
+```bash
+npm run build
+```
 
 ## Content accuracy
 
-Use the original academy logo supplied by the academy without redesigning it. Use the verified instructor list and the exact spelling **Prasanna Pojge**. Do not invent academy information; details not yet supplied or confirmed must remain unpublished or be marked as pending confirmation.
+- Preserve the original academy emblem without redesigning it.
+- Use the academy-supplied instructor names and ranks.
+- Retain both Kartik Chavhan and Kartik Chouhan pending confirmation whether they refer to one person or two.
+- Retain Sohan Dhapade from the earlier academy-confirmed roster.
+- Do not invent branch addresses, contact details, courses, schedules, fees or achievements.
 
 ## Media assets
 
-The original academy logo and Annual Martial Arts Camp 2026 poster were supplied in the project conversation. They are not yet committed as binary files in this repository. Add the original files under `assets/brand/` and `assets/events/` respectively before referencing them from website pages. Do not replace them with generated artwork.
+The supplied logo, event posters and certificates are not yet committed as binary files. Add approved files under `assets/brand/` and `assets/events/` before displaying them on the website.
+
+## Future admin integration
+
+Gallery uploads and publishing controls will be managed through an authenticated admin dashboard in a later phase. Public visitors will only be able to view published media.
